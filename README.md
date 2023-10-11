@@ -1,5 +1,6 @@
 # Machine_learnig
 
+## Dia 1
 Clase Big Data. Data Science Machine Learnig
 Lenguaje Utilizado - Python 
 
@@ -17,3 +18,15 @@ Lenguaje Utilizado - Python
   - Repetir con While
   - Bucle infinito
   - Interar con FOR
+
+## Dia 2
+
+### M5 - 04 - Pandas
+  - Ejercicios con Pandas Python
+
+### M5 - 05 - SpaceX 
+  - Data Collection Api
+
+### M5 - 06 - Visualization
+  - SpaceX - 4 - EDA with Data Visualization
+
