@@ -21,7 +21,7 @@ Lenguaje Utilizado - Python
 
 ## Dia 2
 
-### M5 - 04 - Pandas
+### M5 - 10 - Pandas
   - Ejercicios con Pandas Python
 
 ### M5 - 05 - SpaceX 
@@ -29,4 +29,13 @@ Lenguaje Utilizado - Python
 
 ### M5 - 06 - Visualization
   - SpaceX - 4 - EDA with Data Visualization
+
+## Dia 3
+
+###CSV
+  -
+  -
+  -
+### M5 - 
+
 
