@@ -32,10 +32,17 @@ Lenguaje Utilizado - Python
 
 ## Dia 3
 
-###CSV
-  -
-  -
-  -
-### M5 - 
+### CSV
+  - Canada
+  -Word_countries.json
+### M5 - 09 - Folium
+  - Crear Mapas
+### M5 - Predicir valor BitCoin
+### M5 - Machine Learning
+  - Introducion a Scikit Learn
+### M5 - SQL
+  - EDA Using SQL
+
+
 
 
